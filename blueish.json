@@ -15,7 +15,7 @@
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#fb2d7f",
+      "#3763a3",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
@@ -47,40 +47,40 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000",
-      "#FFFFFF"
+      "rgb(36, 32, 41);",
+      "rgb(36, 32, 41);"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
-      "#FFFFFF"
+      "rgb(36, 32, 41);",
+      "rgb(36, 32, 41);"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000",
-      "#FFFFFF"
+      "rgb(36, 32, 41);",
+      "rgb(36, 32, 41);"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0a0a0a",
-      "#FFFFFF"
+      "rgb(36, 32, 41);",
+      "rgb(36, 32, 41);"
     ],
     "BACKGROUND_ACCENT": [
-      "#000000",
-      "#FFFFFF"
+      "rgb(36, 32, 41);",
+      "rgb(36, 32, 41);"
     ],
     "BACKGROUND_FLOATING": [
-      "#000000",
-      "#FFFFFF"
+      "rgb(36, 32, 41);",
+      "rgb(36, 32, 41);"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
-      "#FFFFFF"
+      "rgb(36, 32, 41);",
+      "rgb(36, 32, 41);"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
-      "#FFFFFF"
+      "rgb(36, 32, 41);",
+      "rgb(36, 32, 41);"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#000000",
-      "#FFFFFF"
+      "rgb(36, 32, 41);",
+      "rgb(36, 32, 41);"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#FFFFFF",
